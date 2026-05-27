@@ -29,6 +29,21 @@ Ce projet présente la conception, l'implémentation et la sécurisation d'une i
 | **VLAN 20** (Violet) | Zone 14 Hôtes | `192.168.1.144` | `/28` | `192.168.1.158` | `.145` à `.157` |
 | **VLAN 30** (Vert) | Zone 14 Hôtes | `192.168.1.160` | `/28` | `192.168.1.174` | `.161` à `.173` |
 | **VLAN 99** (Gris) | Management | `192.168.1.176` | `/28` | `192.168.1.190` | `.177` à `.189` |
+## 🧪 Validation & Tests (Preuves de fonctionnement)
+
+Pour valider le bon fonctionnement de l'architecture, plusieurs tests ont été effectués avec succès :
+
+### 1. Routage Inter-VLAN (Ping réussi)
+Communication réussie entre deux sous-réseaux différents (VLAN Rose vers VLAN Vert), validant la configuration des sous-interfaces du routeur.
+![Test de Ping](./ping_test.png)
+
+### 2. Attribution dynamique des adresses (DHCP)
+Vérification de la bonne réception des paramètres IP (IP, Masque VLSM, Passerelle) par un client du réseau.
+![Preuve DHCP](./dhcp_test.png)
+
+### 3. Administration sécurisée (SSH)
+Accès distant fonctionnel en SSHv2 depuis le PC d'administration vers l'interface de gestion (VLAN 99) du switch.
+![Test SSH](./ssh_test.png)
 
 ## ⚙️ Fichiers de Configuration
 
