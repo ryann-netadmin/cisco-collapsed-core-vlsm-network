@@ -5,7 +5,7 @@ Cisco enterprise network architecture simulation on Packet Tracer using a Collap
 Ce projet présente la conception, l'implémentation et la sécurisation d'une infrastructure réseau complète adaptée à une moyenne entreprise (PME). Développée sur **Cisco Packet Tracer**, cette topologie optimise l'espace d'adressage IP et centralise la gestion du trafic de manière professionnelle.
 
 ## 📊 Topologie du Réseau
-Network-topology.png
+<img width="961" height="624" alt="image" src="https://github.com/user-attachments/assets/6c9de2cd-f0e4-4568-bc6e-259fa7932a35" />
 
 ## 🛠️ Concepts & Technologies Implémentés
 
