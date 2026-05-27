@@ -35,7 +35,7 @@ Pour valider le bon fonctionnement de l'architecture, plusieurs tests ont été 
 
 ### 1. Routage Inter-VLAN (Ping réussi)
 Communication réussie entre deux sous-réseaux différents (VLAN Rose vers VLAN Vert), validant la configuration des sous-interfaces du routeur.
-![Test de Ping](./ping_test.png)
+<img width="961" height="546" alt="image" src="https://github.com/user-attachments/assets/dbd94988-3ca4-446c-99c6-3310477b8cf4" />
 
 ### 2. Attribution dynamique des adresses (DHCP)
 Vérification de la bonne réception des paramètres IP (IP, Masque VLSM, Passerelle) par un client du réseau.
