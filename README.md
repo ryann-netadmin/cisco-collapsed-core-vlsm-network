@@ -39,7 +39,7 @@ Communication réussie entre deux sous-réseaux différents (VLAN Rose vers VLAN
 
 ### 2. Attribution dynamique des adresses (DHCP)
 Vérification de la bonne réception des paramètres IP (IP, Masque VLSM, Passerelle) par un client du réseau.
-![Preuve DHCP](./dhcp_test.png)
+<img width="967" height="555" alt="image" src="https://github.com/user-attachments/assets/07cce57f-02aa-487e-aaa3-33caac01252a" />
 
 ### 3. Administration sécurisée (SSH)
 Accès distant fonctionnel en SSHv2 depuis le PC d'administration vers l'interface de gestion (VLAN 99) du switch.
