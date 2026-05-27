@@ -49,12 +49,6 @@ Les fichiers complets d'exécution de la topologie sont disponibles dans le doss
 
 <details>
 <summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
-<summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/commit/e562c4d0f675d5a813ce0d0a04b40ec3bfa8ddba (Sw-27-1)</summary>
- <summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
-<summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
-<summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
-<summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
-<summary>💻 Cliquez pour voir la configuration finale du Routeur : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)</summary>
  
 ```cisco
 ! Insère ici ta configuration complète de routeur si tu le souhaites ou laisse les fichiers dans /configs
