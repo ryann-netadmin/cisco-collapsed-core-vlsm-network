@@ -48,9 +48,7 @@ Accès distant fonctionnel en SSHv2 depuis le PC d'administration vers l'interfa
 Les fichiers complets d'exécution de la topologie sont disponibles dans le dossier `/configs`. Voici un aperçu des principaux équipements :
 
 <details>
-<summary>💻 Cliquez pour voir la configuration finale des euipement cisco : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config
- [Configs/Sw-27-1(Sw-27-1)](https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/Sw-27-1)
- https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/Sw-27-2
+<summary>💻 Cliquez pour voir la configuration finale des euipement cisco : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/tree/main/Configs
 </summary>
 <details>
  
