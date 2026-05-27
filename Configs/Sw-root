@@ -139,7 +139,7 @@ banner motd ^C Access only to Authorized personnel !!!^C
 !
 !
 line con 0
- password cisco
+ password 7 0822455D0A16
  login
  exec-timeout 5 0
 !
