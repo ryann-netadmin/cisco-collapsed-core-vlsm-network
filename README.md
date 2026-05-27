@@ -1,5 +1,3 @@
-# Cisco-collapsed-core-vlsm-network
-Cisco enterprise network architecture simulation on Packet Tracer using a Collapsed Core design and VLSM addressing
 # Architecture Réseau Cisco - Modèle Hiérarchique Collapsed Core & VLSM
 
 Ce projet présente la conception, l'implémentation et la sécurisation d'une infrastructure réseau complète adaptée à une moyenne entreprise (PME). Développée sur **Cisco Packet Tracer**, cette topologie optimise l'espace d'adressage IP et centralise la gestion du trafic de manière professionnelle.
