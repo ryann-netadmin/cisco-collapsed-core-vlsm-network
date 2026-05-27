@@ -50,7 +50,7 @@ Les fichiers complets d'exécution de la topologie sont disponibles dans le doss
 <details>
 <summary>💻 Cliquez pour voir la configuration finale des euipement cisco : https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/R1-config (R1)
 
- Configs/Sw-27-1(Sw-27-1) </summary>
+ [Configs/Sw-27-1(Sw-27-1)](https://github.com/ryann-netadmin/cisco-collapsed-core-vlsm-network/blob/main/Configs/Sw-27-1) </summary>
 <details>
  
 ```cisco
