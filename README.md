@@ -43,7 +43,7 @@ Vérification de la bonne réception des paramètres IP (IP, Masque VLSM, Passer
 
 ### 3. Administration sécurisée (SSH)
 Accès distant fonctionnel en SSHv2 depuis le PC d'administration vers l'interface de gestion (VLAN 99) du switch.
-![Test SSH](./ssh_test.png)
+<img width="967" height="555" alt="image" src="https://github.com/user-attachments/assets/bf68f19f-fe6c-4457-bf13-7acf500b371c" />
 
 ## ⚙️ Fichiers de Configuration
 
